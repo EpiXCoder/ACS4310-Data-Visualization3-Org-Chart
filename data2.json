@@ -1,0 +1,327 @@
+{
+    "role":"Umbrella Corp",
+    "children":[
+        {
+            "role":"CEO",
+            "full_name":"John Doe",
+            "team":"Executive",
+            "years_at_company":7,
+            "children":[
+                {
+                    "role":"CTO",
+                    "full_name":"Sarah Smith",
+                    "team":"Tech",
+                    "years_at_company":6,
+                    "children":[
+                        {
+                            "role":"Lead Software Engineer",
+                            "full_name":"Edward Davis",
+                            "team":"Software Engineering",
+                            "years_at_company":5,
+                            "children":[
+                                {
+                                    "role":"Senior Software Engineer",
+                                    "full_name":"Jacob Wilson",
+                                    "team":"Software Engineering",
+                                    "years_at_company":4,
+                                    "children":[
+                                        {
+                                            "role":"Software Engineer",
+                                            "full_name":"Emma Brown",
+                                            "team":"Software Engineering",
+                                            "years_at_company":3,
+                                            "children":[
+                                                {
+                                                    "role":"Junior Software Engineer",
+                                                    "full_name":"Emily Johnson",
+                                                    "team":"Software Engineering",
+                                                    "years_at_company":2
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "role":"Test Engineer",
+                                    "full_name":"Michael Miller",
+                                    "team":"Software Engineering",
+                                    "years_at_company":2
+                                }
+                            ]
+                        },
+                        {
+                            "role":"Lead Systems Engineer",
+                            "full_name":"Daniel Martinez",
+                            "team":"Systems Engineering",
+                            "years_at_company":5,
+                            "children":[
+                                {
+                                    "role":"Senior Systems Engineer",
+                                    "full_name":"Sofia Garcia",
+                                    "team":"Systems Engineering",
+                                    "years_at_company":4,
+                                    "children":[
+                                        {
+                                            "role":"Systems Engineer",
+                                            "full_name":"David Hernandez",
+                                            "team":"Systems Engineering",
+                                            "years_at_company":3,
+                                            "children":[
+                                                {
+                                                    "role":"Junior Systems Engineer",
+                                                    "full_name":"Lucas Lopez",
+                                                    "team":"Systems Engineering",
+                                                    "years_at_company":2
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "role":"Network Engineer",
+                                    "full_name":"Emma Gonzalez",
+                                    "team":"Systems Engineering",
+                                    "years_at_company":2
+                                }
+                            ]
+                        },
+                        {
+                            "role":"Lead DevOps Engineer",
+                            "full_name":"Benjamin Perez",
+                            "team":"DevOps",
+                            "years_at_company":5,
+                            "children":[
+                                {
+                                    "role":"Senior DevOps Engineer",
+                                    "full_name":"Olivia Rodriguez",
+                                    "team":"DevOps",
+                                    "years_at_company":4,
+                                    "children":[
+                                        {
+                                            "role":"DevOps Engineer",
+                                            "full_name":"William Wilson",
+                                            "team":"DevOps",
+                                            "years_at_company":3,
+                                            "children":[
+                                                {
+                                                    "role":"Junior DevOps Engineer",
+                                                    "full_name":"Evelyn Anderson",
+                                                    "team":"DevOps",
+                                                    "years_at_company":2
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "role":"CFO",
+                    "full_name":"Ava Thomas",
+                    "team":"Finance",
+                    "years_at_company":6,
+                    "children":[
+                        {
+                            "role":"Lead Accountant",
+                            "full_name":"Isabella Jackson",
+                            "team":"Accounting",
+                            "years_at_company":5,
+                            "children":[
+                                {
+                                    "role":"Senior Accountant",
+                                    "full_name":"Mia Harris",
+                                    "team":"Accounting",
+                                    "years_at_company":4,
+                                    "children":[
+                                        {
+                                            "role":"Accountant",
+                                            "full_name":"Harper Clark",
+                                            "team":"Accounting",
+                                            "years_at_company":3,
+                                            "children":[
+                                                {
+                                                    "role":"Junior Accountant",
+                                                    "full_name":"Ella Lewis",
+                                                    "team":"Accounting",
+                                                    "years_at_company":2
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "role":"Lead Financial Analyst",
+                            "full_name":"Charlotte Young",
+                            "team":"Finance",
+                            "years_at_company":5,
+                            "children":[
+                                {
+                                    "role":"Senior Financial Analyst",
+                                    "full_name":"Amelia Walker",
+                                    "team":"Finance",
+                                    "years_at_company":4,
+                                    "children":[
+                                        {
+                                            "role":"Financial Analyst",
+                                            "full_name":"Oliver Hall",
+                                            "team":"Finance",
+                                            "years_at_company":3,
+                                            "children":[
+                                                {
+                                                    "role":"Junior Financial Analyst",
+                                                    "full_name":"Lucas Allen",
+                                                    "team":"Finance",
+                                                    "years_at_company":2
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "role":"CMO",
+                    "full_name":"Liam Wright",
+                    "team":"Marketing",
+                    "years_at_company":6,
+                    "children":[
+                        {
+                            "role":"Lead Marketing Specialist",
+                            "full_name":"Sophia Green",
+                            "team":"Marketing",
+                            "years_at_company":5,
+                            "children":[
+                                {
+                                    "role":"Senior Marketing Specialist",
+                                    "full_name":"Ethan Baker",
+                                    "team":"Marketing",
+                                    "years_at_company":4,
+                                    "children":[
+                                        {
+                                            "role":"Marketing Specialist",
+                                            "full_name":"Aiden Nelson",
+                                            "team":"Marketing",
+                                            "years_at_company":3,
+                                            "children":[
+                                                {
+                                                    "role":"Junior Marketing Specialist",
+                                                    "full_name":"Abigail Carter",
+                                                    "team":"Marketing",
+                                                    "years_at_company":2
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "role":"Lead PR Specialist",
+                            "full_name":"James Mitchell",
+                            "team":"Public Relations",
+                            "years_at_company":5,
+                            "children":[
+                                {
+                                    "role":"Senior PR Specialist",
+                                    "full_name":"Logan Perez",
+                                    "team":"Public Relations",
+                                    "years_at_company":4,
+                                    "children":[
+                                        {
+                                            "role":"PR Specialist",
+                                            "full_name":"Alexander Roberts",
+                                            "team":"Public Relations",
+                                            "years_at_company":3,
+                                            "children":[
+                                                {
+                                                    "role":"Junior PR Specialist",
+                                                    "full_name":"Benjamin Turner",
+                                                    "team":"Public Relations",
+                                                    "years_at_company":2
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "role":"COO",
+                    "full_name":"Noah Phillips",
+                    "team":"Operations",
+                    "years_at_company":6,
+                    "children":[
+                        {
+                            "role":"Lead Operations Manager",
+                            "full_name":"Elizabeth Campbell",
+                            "team":"Operations",
+                            "years_at_company":5,
+                            "children":[
+                                {
+                                    "role":"Senior Operations Manager",
+                                    "full_name":"Elijah Parker",
+                                    "team":"Operations",
+                                    "years_at_company":4,
+                                    "children":[
+                                        {
+                                            "role":"Operations Manager",
+                                            "full_name":"Victoria Evans",
+                                            "team":"Operations",
+                                            "years_at_company":3,
+                                            "children":[
+                                                {
+                                                    "role":"Junior Operations Manager",
+                                                    "full_name":"Madison Edwards",
+                                                    "team":"Operations",
+                                                    "years_at_company":2
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "role":"Lead HR Specialist",
+                            "full_name":"Grace Collins",
+                            "team":"Human Resources",
+                            "years_at_company":5,
+                            "children":[
+                                {
+                                    "role":"Senior HR Specialist",
+                                    "full_name":"Michael Stewart",
+                                    "team":"Human Resources",
+                                    "years_at_company":4,
+                                    "children":[
+                                        {
+                                            "role":"HR Specialist",
+                                            "full_name":"James Sanchez",
+                                            "team":"Human Resources",
+                                            "years_at_company":3,
+                                            "children":[
+                                                {
+                                                    "role":"Junior HR Specialist",
+                                                    "full_name":"Henry Morris",
+                                                    "team":"Human Resources",
+                                                    "years_at_company":2
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

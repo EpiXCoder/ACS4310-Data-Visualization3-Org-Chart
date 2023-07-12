@@ -1,0 +1,198 @@
+{
+    "name": "Umbrella Corp",
+    "children": [
+        {
+            "name": "CEO",
+            "children": [
+                {
+                    "name": "CTO",
+                    "children": [
+                        {
+                            "name": "Lead Software Engineer",
+                            "children": [
+                                {
+                                    "name": "Senior Software Engineer",
+                                    "children": [
+                                        {
+                                            "name": "Software Engineer",
+                                            "children": [
+                                                {
+                                                    "name": "Junior Software Engineer"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Test Engineer"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lead Systems Engineer",
+                            "children": [
+                                {
+                                    "name": "Senior Systems Engineer",
+                                    "children": [
+                                        {
+                                            "name": "Systems Engineer",
+                                            "children": [
+                                                {
+                                                    "name": "Junior Systems Engineer"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                },
+                                {
+                                    "name": "Network Engineer"
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lead DevOps Engineer",
+                            "children": [
+                                {
+                                    "name": "Senior DevOps Engineer",
+                                    "children": [
+                                        {
+                                            "name": "DevOps Engineer",
+                                            "children": [
+                                                {
+                                                    "name": "Junior DevOps Engineer"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "CFO",
+                    "children": [
+                        {
+                            "name": "Lead Accountant",
+                            "children": [
+                                {
+                                    "name": "Senior Accountant",
+                                    "children": [
+                                        {
+                                            "name": "Accountant",
+                                            "children": [
+                                                {
+                                                    "name": "Junior Accountant"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lead Financial Analyst",
+                            "children": [
+                                {
+                                    "name": "Senior Financial Analyst",
+                                    "children": [
+                                        {
+                                            "name": "Financial Analyst",
+                                            "children": [
+                                                {
+                                                    "name": "Junior Financial Analyst"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "CMO",
+                    "children": [
+                        {
+                            "name": "Lead Marketing Specialist",
+                            "children": [
+                                {
+                                    "name": "Senior Marketing Specialist",
+                                    "children": [
+                                        {
+                                            "name": "Marketing Specialist",
+                                            "children": [
+                                                {
+                                                    "name": "Junior Marketing Specialist"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lead PR Specialist",
+                            "children": [
+                                {
+                                    "name": "Senior PR Specialist",
+                                    "children": [
+                                        {
+                                            "name": "PR Specialist",
+                                            "children": [
+                                                {
+                                                    "name": "Junior PR Specialist"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "COO",
+                    "children": [
+                        {
+                            "name": "Lead Operations Manager",
+                            "children": [
+                                {
+                                    "name": "Senior Operations Manager",
+                                    "children": [
+                                        {
+                                            "name": "Operations Manager",
+                                            "children": [
+                                                {
+                                                    "name": "Junior Operations Manager"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Lead HR Specialist",
+                            "children": [
+                                {
+                                    "name": "Senior HR Specialist",
+                                    "children": [
+                                        {
+                                            "name": "HR Specialist",
+                                            "children": [
+                                                {
+                                                    "name": "Junior HR Specialist"
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
